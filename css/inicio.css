@@ -16,7 +16,7 @@ main{
     width: 100%;
     max-width: 1000px;
     background: rgb(40, 179, 132);
-    margin: auto;
+    margin:0 auto;
     margin-top:80px ;
     border: 2px solid white;
     
@@ -105,5 +105,12 @@ article img{
     width: 100%;
     border: 4px solid white;
     margin-top: 40px;
+    height: auto;
 
+}
+@media screen and (max-whidth: 800px){
+    #check:checked ~ .menu{
+        width: 222px;
+    
+    }
 }
