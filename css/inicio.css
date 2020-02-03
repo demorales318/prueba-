@@ -36,8 +36,7 @@ header {
     display: none;
 }
 #check:checked ~ .menu{
-    width: 400px;
-
+   width: 350px;
 }
 
 
