@@ -81,7 +81,11 @@ body {
     font: oblique bold 120% cursive;
     color: #08F42C;
     font-weight: 900;;
+    
 
 
 
+}
+.login-box a:hover{
+    color: #36c74f ;
 }

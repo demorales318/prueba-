@@ -36,7 +36,8 @@ header {
     display: none;
 }
 #check:checked ~ .menu{
-   width: 350px;
+    width: 350px;
+
 }
 
 
@@ -107,9 +108,19 @@ article img{
     height: auto;
 
 }
+.logo{
+    width: 35%;
+   margin: auto;
+   margin-left: 35% ;
+    height: auto;
+    left: calc(50% - 50px);
+   
 @media screen and (max-whidth: 800px){
     #check:checked ~ .menu{
-        width: 222px;
+        width: 60%;
     
+    }
+    aside{
+        width: 30%;
     }
 }
