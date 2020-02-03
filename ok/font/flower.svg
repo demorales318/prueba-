@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="flower" horiz-adv-x="1000" >
+<font-face font-family="flower" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ok" unicode="&#xe802;" d="M1179 778q-250-222-600-750l-115-179q-144 180-464 500l107 107 286-250q150 150 279 272t206 187 131 111 77 59l21 14q4 0 11-2t26-19 35-50z" horiz-adv-x="1179" />
+
+<glyph glyph-name="air" unicode="&#xe803;" d="M85 534q-16-14-36-12t-34 18q-14 14-12 36t18 36q48 40 79 60t89 40 129 4 159-66 155-53 100 16 89 67q38 30 70-6 32-40-6-72-122-110-234-110-100 0-222 70-68 38-119 52t-93 0-65-29-67-51z m736-110q38 32 70-6 32-40-6-72-40-34-65-53t-72-38-97-19q-96 0-222 70-68 38-119 52t-93 0-65-29-67-51q-14-14-35-12t-35 18q-32 40 6 72 38 34 60 50t69 38 88 23 105-15 134-56q68-38 119-52t93 0 65 29 67 51z m0-256q38 32 70-6 14-14 12-36t-18-36q-40-34-65-53t-72-38-97-19q-96 0-222 70-68 38-119 52t-93 1-66-29-66-52q-14-14-35-12t-35 18q-32 40 6 72 38 34 60 50t69 38 88 23 105-15 134-56q68-38 119-52t93 0 65 29 67 51z" horiz-adv-x="905" />
+</font>
+</defs>
+</svg>

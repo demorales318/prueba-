@@ -1,0 +1,58 @@
+{
+  "name": "flower",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c55fdf978f617992b43ee7cbaa6ef87e",
+      "css": "menu",
+      "code": 61448,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "bbf50a560f95a4cce5209d47e71cbc30",
+      "css": "pagelines",
+      "code": 61836,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "caa1c8d19cb3f0b7641eb59828bd50bb",
+      "css": "pied-piper",
+      "code": 62126,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dc73bee1d58539abe8c96b958bf4c931",
+      "css": "fire",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "1bedd7992ce00dc412fb02b39c1e9ebf",
+      "css": "tint",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "01f67de2dc0137389f1c3aced6273acd",
+      "css": "icq",
+      "code": 62212,
+      "src": "brandico"
+    },
+    {
+      "uid": "d06b13f30947afbbdae6977413144183",
+      "css": "garden",
+      "code": 59418,
+      "src": "maki"
+    },
+    {
+      "uid": "a904215f9fea569335d2a8addb4356b4",
+      "css": "leaf",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
